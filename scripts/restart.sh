@@ -1,0 +1,1 @@
+ystemctl restart apache2
